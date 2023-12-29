@@ -1,0 +1,123 @@
+import { Products } from "../Product/Products";
+export const reviews = [
+  {
+    ID: 0,
+    Name: Products[0].Name,
+    descriptions: "dùng tốt",
+    rate: "5",
+  },
+  {
+    ID: 1,
+    Name: Products[0].Name,
+    descriptions: "giao hàng lâu",
+    rate: "4",
+  },
+  {
+    ID: 2,
+    Name: Products[1].Name,
+    descriptions: "chất lượng kém",
+    rate: "1",
+  },
+  {
+    ID: 3,
+    Name: Products[1].Name,
+    descriptions: "tạm ổn",
+    rate: "3",
+  },
+  {
+    ID: 0,
+    Name: Products[0].Name,
+    descriptions: "dùng tốt",
+    rate: "5",
+  },
+  {
+    ID: 1,
+    Name: Products[0].Name,
+    descriptions: "giao hàng lâu",
+    rate: "4",
+  },
+  {
+    ID: 2,
+    Name: Products[1].Name,
+    descriptions: "chất lượng kém",
+    rate: "1",
+  },
+  {
+    ID: 3,
+    Name: Products[1].Name,
+    descriptions: "tạm ổn",
+    rate: "3",
+  },
+  {
+    ID: 0,
+    Name: Products[0].Name,
+    descriptions: "dùng tốt",
+    rate: "5",
+  },
+  {
+    ID: 1,
+    Name: Products[0].Name,
+    descriptions: "giao hàng lâu",
+    rate: "4",
+  },
+  {
+    ID: 2,
+    Name: Products[1].Name,
+    descriptions: "chất lượng kém",
+    rate: "1",
+  },
+  {
+    ID: 3,
+    Name: Products[1].Name,
+    descriptions: "tạm ổn",
+    rate: "3",
+  },
+  {
+    ID: 0,
+    Name: Products[0].Name,
+    descriptions: "dùng tốt",
+    rate: "5",
+  },
+  {
+    ID: 1,
+    Name: Products[0].Name,
+    descriptions: "giao hàng lâu",
+    rate: "4",
+  },
+  {
+    ID: 2,
+    Name: Products[1].Name,
+    descriptions: "chất lượng kém",
+    rate: "1",
+  },
+  {
+    ID: 3,
+    Name: Products[1].Name,
+    descriptions: "tạm ổn",
+    rate: "3",
+  },
+  {
+    ID: 0,
+    Name: Products[0].Name,
+    descriptions: "dùng tốt",
+    rate: "5",
+  },
+  {
+    ID: 1,
+    Name: Products[0].Name,
+    descriptions: "giao hàng lâu",
+    rate: "4",
+  },
+  {
+    ID: 2,
+    Name: Products[1].Name,
+    descriptions: "chất lượng kém",
+    rate: "1",
+  },
+  {
+    ID: 3,
+    Name: Products[1].Name,
+    descriptions: "tạm ổn",
+    rate: "3",
+  },
+];
